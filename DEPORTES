@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Win Sports+ SD" tvg-name="COL SD: WIN SPORTS + (OPC 1)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL SD: WIN SPORTS + (OPC 1)
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102912
-#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 1)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL HD: WIN SPORTS + (OPC 1)
+#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 1)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" ,COL HD: WIN SPORTS + (OPC 1)
 http://odenfull.co:8691/TvPlusOnline121/italia1992/102913
-#EXTINF:-1 tvg-id="Win Sports+ SD" tvg-name="COL SD: WIN SPORTS + (OPC 2)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL SD: WIN SPORTS + (OPC 2)
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102914
-#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 2)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL HD: WIN SPORTS + (OPC 2)
+#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 2)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" ,COL HD: WIN SPORTS + (OPC 2)
 http://odenfull.co:8691/TvPlusOnline121/italia1992/102915
-#EXTINF:-1 tvg-id="Win Sports+ SD" tvg-name="COL SD: WIN SPORTS + (OPC 3)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL SD: WIN SPORTS + (OPC 3)
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102916
-#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 3)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" group-title="COLOMBIA",COL HD: WIN SPORTS + (OPC 3)
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102917
-#EXTINF:-1 tvg-id="Win Sports SD)" tvg-name="COL SD: WIN SPORTS +" tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="COLOMBIA",COL SD: WIN SPORTS +
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102918
 #EXTINF:-1 tvg-id="Win Sports HD)" tvg-name="COL HD: WIN SPORTS " tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="COLOMBIA",COL HD: WIN SPORTS 
 http://odenfull.co:8691/TvPlusOnline121/italia1992/102919
