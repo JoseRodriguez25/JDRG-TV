@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 1)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" ,COL HD: WIN SPORTS + (OPC 1)
 http://odenfull.co:8691/TvPlusOnline121/italia1992/102913
-#EXTINF:-1 tvg-id="Win Sports+ HD" tvg-name="COL HD: WIN SPORTS + (OPC 2)" tvg-logo="https://i.ibb.co/6bkyRFZ/wincirculo.png" ,COL HD: WIN SPORTS + (OPC 2)
-http://odenfull.co:8691/TvPlusOnline121/italia1992/102915
 #EXTINF:-1 tvg-id="Win Sports HD)" tvg-name="COL HD: WIN SPORTS " tvg-logo="https://i.ibb.co/M1BBy5N/win.png" ,COL HD: WIN SPORTS
 http://odenfull.co:8691/TvPlusOnline121/italia1992/102919
+#EXTINF:-1 tvg-id="ESPN Sur" tvg-name="SPORTS HD: ESPN 1 (COL)" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="DEPORTES SD/HD",SPORTS HD: ESPN 1 (COL)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56206
+#EXTINF:-1 tvg-id="ESPN 2 Sur" tvg-name="SPORTS HD: ESPN 2 (COL)" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="DEPORTES SD/HD",SPORTS HD: ESPN 2 (COL)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56208
+#EXTINF:-1 tvg-id="ESPN 3 Sur" tvg-name="SPORTS HD: ESPN 3 (COL)" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="DEPORTES SD/HD",SPORTS HD: ESPN 3 (COL)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56210
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="SPORTS HD: FOX SPORTS 1" tvg-logo="https://i.ibb.co/VvDRXYF/sports1.png" group-title="DEPORTES SD/HD",SPORTS HD: FOX SPORTS 1
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56189
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: FOX SPORTS 2" tvg-logo="https://i.ibb.co/CKFtgzP/sports2.png" group-title="DEPORTES SD/HD",SPORTS HD: FOX SPORTS 2
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56191
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: FOX SPORTS 3" tvg-logo="https://i.ibb.co/wYLywHC/sports3.png" group-title="DEPORTES SD/HD",SPORTS HD: FOX SPORTS 3
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56193
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: DIRECTV SPORTS 1 (COL)" tvg-logo="https://i.ibb.co/B3KGWW6/direcblanco.png" group-title="DEPORTES SD/HD",SPORTS HD: DIRECTV SPORTS 1 (COL)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56231
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: DIRECTV SPORTS 2" tvg-logo="https://i.ibb.co/x5Fzc98/sport2.png" group-title="DEPORTES SD/HD",SPORTS HD: DIRECTV SPORTS 2
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56235
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: DIRECTV SPORTS +" tvg-logo="https://i.ibb.co/YNYwC24/sport.png" group-title="DEPORTES SD/HD",SPORTS HD: DIRECTV SPORTS +
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56237
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HD: MOVISTAR DEPORTES (PER)" tvg-logo="https://i.ibb.co/BqZQmdd/movista.png" group-title="DEPORTES SD/HD",SPORTS HD: MOVISTAR DEPORTES (PER)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/56239
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 4)" tvg-logo="https://i.ibb.co/cxFJTRG/movistar.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA (OPC 4)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/135343
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)" tvg-logo="https://i.ibb.co/r2ks5t4/movis.png" group-title="DEPORTES SD/HD",DEP HD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
+http://odenfull.co:8691/TvPlusOnline121/italia1992/135335
